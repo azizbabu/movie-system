@@ -1,10 +1,10 @@
-<h1 align="center">Movie Sytem</h1>
+<h1 align="center">Movie System</h1>
 
-## About Movie Sytem
+## About Movie System
 
-Movie Sytem is a API that is used to build a movie making system. It makes easy way to build movie system. Here we used <a href="https://github.com/digitaldreams/laracrud">Laracrud</a> ,<a href="https://github.com/dingo/api">Dingo</a>  and <a href="https://laravel.com/docs/5.6/passport">laravel password</a>  API that  attempt to take the pain out of development by easing common tasks used in the majority of movie projects
+Movie System is a API that is used to build a movie system. It makes easy way to build movie. Here we used <a href="https://github.com/digitaldreams/laracrud">Laracrud</a> ,<a href="https://github.com/dingo/api">Dingo</a>  and <a href="https://laravel.com/docs/5.6/passport">Laravel Password</a>  APIs that allows strong authentication with easy CRUD system corresponding to movies.
 
-Movie Sytem is accessible, yet powerful, providing tools needed for large, robust applications.
+Movie System is accessible, yet powerful, providing tools needed for large, robust movie applications.
 
 ## Security Vulnerabilities
 
