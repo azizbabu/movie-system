@@ -1,4 +1,4 @@
-<h2 align="center">Movie Sytem</h2>
+<h1 align="center">Movie Sytem</h1>
 
 ## About Movie Sytem
 
