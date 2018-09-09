@@ -2,7 +2,7 @@
 
 ## About Movie Sytem
 
-Movie Sytem is a API that is used to build a movie making system. It makes easy way to build movie system. Here we used laracrud, Dingo and laravel password API that  attempt to take the pain out of development by easing common tasks used in the majority of movie projects
+Movie Sytem is a API that is used to build a movie making system. It makes easy way to build movie system. Here we used <a href="https://github.com/digitaldreams/laracrud">Laracrud</a> ,<a href="https://github.com/dingo/api">Dingo</a>  and <a href="https://laravel.com/docs/5.6/passport">laravel password</a>  API that  attempt to take the pain out of development by easing common tasks used in the majority of movie projects
 
 Movie Sytem is accessible, yet powerful, providing tools needed for large, robust applications.
 
